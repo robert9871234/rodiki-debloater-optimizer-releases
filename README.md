@@ -7,8 +7,10 @@ Downloads of RoDiKi Debloater & Optimizer (a Windows 11 debloat and tweak tool).
 Open PowerShell and paste:
 
 ```powershell
-irm https://github.com/robert9871234/rodiki-debloater-optimizer-releases/releases/latest/download/Start-Online.ps1 | iex
+irm debloptim.rodi.gripe | iex
 ```
+
+(The short address redirects to `RoDiKi-DEBLO.ps1` in the latest release.)
 
 It downloads the newest release, checks its SHA-256 value, unpacks it and starts the tool. Nothing is installed. Windows asks for administrator rights (click Yes).
 
